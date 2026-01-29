@@ -11,3 +11,15 @@ This repository is a beginner-friendly Python learning resource. If you’re new
 ✔️ Learning Python basics
 ✔ Practicing Python concepts
 ✔ Seeing real/simple code examples
+
+Learning-Python/
+├── 01_basics/         # Python basics (syntax, variables, input/output)
+├── 02_conditionals/   # if, else, elif statements
+├── 03_loops/          # for loops and while loops
+├── 04_iteration_tool/ # range(), enumerate(), etc.
+├── 05_functions/      # functions in Python
+├── 06_scopes/         # variable scopes
+├── 07_oops/           # object-oriented programming
+├── 08_decorators/     # decorators explanation
+└── project/           # small projects/examples
+
